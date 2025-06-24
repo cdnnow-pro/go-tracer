@@ -1,4 +1,4 @@
-module github.com/cdnnow-pro/tracer-go
+module github.com/cdnnow-pro/go-tracer
 
 go 1.23.0
 
